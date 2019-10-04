@@ -1,3 +1,6 @@
+![alt text](https://raw.github.com/cuelebreorg/wordpress_terraform/blob/master/diagram.png)
+
+
 Create an IAM user with sufficient rights to create the resources. 
 
 Download and install aws cli.
