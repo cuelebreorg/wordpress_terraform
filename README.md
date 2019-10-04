@@ -1,4 +1,4 @@
-![alt text](https://raw.github.com/cuelebreorg/wordpress_terraform/blob/master/diagram.png)
+![alt text](https://raw.githubusercontent.com/cuelebreorg/wordpress_terraform/master/diagram.png)
 
 
 Create an IAM user with sufficient rights to create the resources. 
