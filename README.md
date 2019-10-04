@@ -6,12 +6,14 @@ Download and install terraform.
 
 Run aws configure --profile "profilename"
 
-Update profile name in aws.tf 
+Update profile name and zone in aws.tf 
 
 Create keypair in aws console and update name in scaling.tf
 
 Run terraform plan
 
 Run terraform apply
+
+Use one instance for languaje configuration (ELB will be unhealty)
 
 To destroy run teraform destroy
